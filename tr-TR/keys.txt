@@ -1,0 +1,747 @@
+﻿item.copper_pickaxe Bakır Kazma
+item.copper_sword Bakır Kılıç
+item.copper_axe Bakır Balta
+item.copper_ingot Bakır Külçe
+item.iron_ingot Demir Külçe
+item.health_potion Can İksiri
+item.empty Boş
+item.stone Taş
+item.unknown Bilinmeyen
+item.dirt Toprak
+item.grass Çimen
+item.planks Tahta
+item.water Eski Su
+item.sand Kum
+item.lamp_white Beyaz Lamba
+item.lamp_blue Mavi Lamba
+item.lava Eski Lav
+item.log Meşe Kütüğü
+item.leaves Yaprak
+item.grass_tall Uzun Çimen
+item.workbench Çalışma Tezgahı
+item.workbench.desc Daha karmaşık eşyalar yapabilir
+item.worldBorder Dünya Sınırı
+item.worldBorder.desc Bunu alabildiysen ya hile yapıyorsun ya da oyunda hata var ):
+item.copper_ore Bakır Cevheri
+item.copper_ore.desc Külçeye eritilebilir
+item.iron_ore Demir Cevheri
+item.iron_ore.desc Külçeye eritilebilir
+item.coal_ore Kömür Cevheri
+item.furnace Ocak
+item.glowing_mushroom Parlayan Mantar
+item.torch Meşale
+item.crate Sandık
+item.stone_brick Taş Tuğla
+item.glass Cam
+item.stone_brick_small Küçük Taş Tuğla
+item.clay Kil
+item.clay_brick_small Kil Tuğlası
+item.copper_plated_stone Bakır Kaplama Taş
+item.iron_plated_stone Demir Kaplama Taş
+item.flint_pickaxe Çakmaktaşı Kazma
+item.flint_sword Çakmaktaşı Kılıç
+item.flint_axe Çakmaktaşı Balta
+item.core Çekirdek
+item.flint Çakmaktaşı
+item.iron_pickaxe Demir Kazma
+item.iron_sword Demir Kılıç
+item.iron_axe Demir Balta
+item.red_mushroom Kırmızı Mantar
+item.allumerium_ore Allumerium Cevheri
+item.chest Sandık
+item.silver_pickaxe Gümüş Kazma
+item.silver_sword Gümüş Kılıç
+item.silver_axe Gümüş Balta
+item.gold_pickaxe Altın Kazma
+item.gold_sword Altın Kılıç
+item.gold_axe Altın Balta
+item.silver_ingot Gümüş Külçe
+item.gold_ingot Altın Külçe
+item.sandstone Kumtaşı
+item.snow Kar
+item.ice Buz
+item.silver_ore Gümüş Cevheri
+item.gold_ore Altın Cevheri
+item.silver_plated_stone Gümüş Kaplama Taş
+item.gold_plated_stone Altın Kaplama Taş
+item.sandstone_brick Kumtaşı Tuğla
+item.snow_brick Kar Tuğlası
+item.stone_block Taş Blok
+item.lamp_red Kırmızı Lamba
+item.lamp_green Yeşil Lamba
+item.flint_hammer Çakmaktaşı Çekiç
+item.flint_hammer.desc Blokların şeklini değiştirebilir
+item.bagel Simit
+item.everything_bagel Her Şeyli Simit
+item.everything_bagel.desc Her şeyle dolu.
+item.blueberry Yaban Mersini
+item.birch_log Huş Kütüğü
+item.maple_log Akçaağaç Kütüğü
+item.maple_leaves Akçaağaç Yaprağı
+item.blueberry_bush Yaban Mersini Çalısı
+item.door Kapı
+item.copper_helmet Bakır Kask
+item.iron_helmet Demir Kask
+item.silver_helmet Gümüş Kask
+item.gold_helmet Altın Kask
+item.copper_chestplate Bakır Göğüslük
+item.iron_chestplate Demir Göğüslük
+item.silver_chestplate Gümüş Göğüslük
+item.gold_chestplate Altın Göğüslük
+item.copper_greaves Bakır Paça
+item.iron_greaves Demir Paça
+item.silver_greaves Gümüş Paça
+item.gold_greaves Altın Paça
+item.dynamite Dinamit
+item.dynamite.desc Yakalamaca oynamak için harika
+item.daffodil Nergis
+item.rose Gül
+item.dandelion Karahindiba
+item.cobblestone Arnavut Kaldırımı
+item.potion_station İksir İstasyonu
+item.cooking_station Yemek Pişirme İstasyonu
+item.ladder Merdiven
+item.dynamite_block Dinamit Bloğu
+item.dynamite_block.desc Patlamak ister misin!?
+item.cactus_sword Kaktüs Kılıcı
+item.wood_bow Ahşap Yay
+item.slingshot Sapan
+item.arrow Ok
+item.rock Kaya
+item.shuriken Şuriken
+item.dart Dart
+item.wand Değnek
+item.wand.desc Komutlar için iki nokta seçmek için kullanılır.
+item.frozen_stone Donmuş Taş
+item.grass_tall_snowy Karlı Çimen
+item.grass_tall_dry Kuru Çimen
+item.dead_bush Ölü Çalı
+item.desert_bush Çöl Çalısı
+item.agave Agave
+item.cactus_flower Kaktüs Çiçeği
+item.cactus_small Küçük Kaktüs
+item.cactus Kaktüs
+item.maple_sapling Akçaağaç Fidan
+item.oak_sapling Meşe Fidan
+item.birch_sapling Huş Fidan
+item.frost_algae Don Yosunu
+item.slime_algae Slime Yosunu
+item.pine_leaves Çam Yaprağı
+item.forest_pickaxe Orman Kazması
+item.forest_pickaxe.desc Her zaman düz aşağı kaz :)
+item.entwiner Bağlayıcı
+item.entwiner.desc Tetikleyiciyi hedefe büyülü bağlar.
+item.heart_beet Kalp Pancarı
+item.heart_beet.desc Maksimum canı 1 Kalp artırır!
+item.iron_chest Demir Sandık
+item.gold_chest Altın Sandık
+item.dungeon_bricks Orman Zindan Tuğlası
+item.dungeon_grate Orman Zindan Izgarası
+item.dungeon_lamp Zindan Lambası
+item.dungeon_lamp_blue Mavi Zindan Lambası
+item.dungeon_pressure_plate Zindan Basınç Plakası
+item.dungeon_door Zindan Kapısı
+item.pressure_plate Basınç Plakası
+item.button Düğme
+item.splitter Ayırıcı
+item.splitter.desc Sinyali yan bloklara böler.
+item.pulser Nabız Genişletici
+item.pulser.desc Bağlantı nabzını uzatır.
+item.dart_trap Dart Tuzağı
+item.dart_trap.desc Zehirli dart atar.
+item.thorn_blade Diken Kılıcı
+item.regen_charm Yenilenme Taşı
+item.regen_charm.desc Her 4 saniyede 1 HP geri yükler.
+item.jet_boots Jet Bot
+item.jet_boots.desc Havada zıpla ve 1 saniye yakıtla aktifleştir.
+item.spring_boots Yay Bot
+item.spring_boots.desc Zıplama yüksekliğini 2m'ye çıkarır.
+item.paraglider Planör
+item.paraglider.desc Yüksekten yavaşça iniş yap.
+item.jumping_bean Zıplayan Fasulye
+item.jumping_bean.desc Yakın dövüş hasarını %20 artırır, ama dikkat!
+item.sneakers Gizli Ayakkabı
+item.sneakers.desc Sessizce gizlenmene izin verir.
+item.gecko_gloves T Gecko Eldiveni
+item.gecko_gloves.desc Bu eldivenle yüzeylere tırmanabilirsin.
+item.speed_boots Koşu Botu
+item.speed_boots.desc Bunları giyince koşmak için enerji kazanırsın.
+item.oak_log Meşe Kütüğü
+item.pine_log Çam Kütüğü
+item.pine_sapling Çam Fidan
+item.birch_planks Huş Tahtası
+item.maple_planks Akçaağaç Tahtası
+item.pine_planks Çam Tahtası
+item.framed_glass Çerçeveli Cam
+item.red_brick Kırmızı Tuğla
+item.lamp_cyan Camgöbeği Lamba
+item.lamp_magenta Macenta Lamba
+item.lamp_yellow Sarı Lamba
+item.copper_bars Bakır Çubuk
+item.iron_bars Demir Çubuk
+item.silver_bars Gümüş Çubuk
+item.gold_bars Altın Çubuk
+item.concrete Beton
+item.concrete.desc 1.2x hareket hızı artışı
+item.asphalt Asfalt
+item.asphalt.desc 1.2x hareket hızı artışı
+item.thick_birch_log Kalın Huş Kütüğü
+item.thick_maple_log Kalın Akçaağaç Kütüğü
+item.thick_oak_log Kalın Meşe Kütüğü
+item.thick_pine_log Kalın Çam Kütüğü
+item.trampoline Trambolin
+item.trampoline.desc Çok yükseğe zıplatır.
+item.launch_pad Fırlatma Rampası
+item.launch_pad.desc Seni havaya fırlatır.
+item.cloth Kumaş
+item.cloth_light_grey Açık Gri Kumaş
+item.cloth_dark_grey Koyu Gri Kumaş
+item.cloth_black Siyah Kumaş
+item.cloth_red Kırmızı Kumaş
+item.cloth_orange Turuncu Kumaş
+item.cloth_yellow Sarı Kumaş
+item.cloth_lime Limon Yeşili Kumaş
+item.cloth_green Yeşil Kumaş
+item.cloth_cyan Camgöbeği Kumaş
+item.cloth_blue Mavi Kumaş
+item.cloth_dark_blue Koyu Mavi Kumaş
+item.cloth_purple Mor Kumaş
+item.cloth_pink Pembe Kumaş
+item.cloth_light_pink Açık Pembe Kumaş
+item.cloth_brown Kahverengi Kumaş
+item.weak_health_potion Zayıf Can İksiri
+item.weak_health_potion.desc 10 HP geri yükler
+item.poison_potion Zehir İksiri
+item.poison_potion.desc İçmen önerilmez!
+item.speed_potion Hız İksiri
+item.regen_potion Yenilenme İksiri
+item.regen_potion.desc 5 dakika boyunca kalpleri yavaşça yeniler.
+item.armour_potion Zırh İksiri
+item.armour_potion.desc Savunmanı 5 dakika boyunca 4 puan artırır.
+item.respawn_potion Dönüş İksiri
+item.respawn_potion.desc Dönüş İksiri
+item.flight_potion Uçuş İksiri
+item.flight_potion.desc 1 dakika boyunca kısa roket itişi yapmana izin verir.
+item.cure_cube Tedavi Küpü
+item.cure_cube.desc Bunu kuşanırsan zehre karşı bağışık olursun.
+item.cotton_plant Pamuk Bitkisi
+item.cotton_plant.desc Dikilebilir ve hasat edilebilir.
+item.decoration_station Dekorasyon İstasyonu
+item.decoration_station.desc Dekoratif bloklar yapmak için kullanılır.
+item.dungeon_spawner Zindan Canavar Üreticisi
+item.copper_bow Bakır Yay
+item.iron_bow Demir Yay
+item.silver_bow Gümüş Yay
+item.gold_bow Altın Yay
+item.copper_crossbow Bakır Arbalet
+item.iron_crossbow Demir Arbalet
+item.silver_crossbow Gümüş Arbalet
+item.gold_crossbow Altın Arbalet
+item.reinforced_arrow Güçlendirilmiş Ok
+item.flaming_arrow Alev Ok
+item.explosive_arrow Patlayıcı Ok
+item.root_arrow Ok Kökü
+item.rock_melon Kaya Karpuzu
+item.watermelon Karpuz
+item.brick Tuğla
+item.brick.desc Sevmediğin şeylere atmak için.
+item.throwable_torch Yapışkan Meşale
+item.throwable_torch.desc Mağaraları aydınlatmak için atılabilir.
+item.squeaky_toy Sıkılan Oyuncak
+item.whoopee_cushion Osuruk Yastığı
+item.air_horn Hava Korneği
+item.glow_worms Parlayan Kurtlar
+item.heart_beet_block Kalp Pancarı (Blok)
+item.sandstone_brick_small Küçük Kumtaşı Tuğlası
+item.toy_crate Oyuncak Sandığı
+item.sprinkler Sulayıcı
+item.soil Kuru Toprak
+item.wet_soil Islak Toprak
+item.arrow_root_seed Ok Kökü Tohumu
+item.bomb_berry_seed Bomba Yemişi Tohumu
+item.rock_melon_seed Kaya Karpuzu Tohumu
+item.watermelon_seed Karpuz Tohumu
+item.frying_pan Kızartma Tavası
+item.boomerang Bumerang
+item.throwable_glow_bean Parlayan Fasulye
+item.watering_can Sulama Kovası
+item.watering_can.desc Her zaman dolu, sihir sayesinde.
+item.hoe Çapa
+item.tomato Domates
+item.bread Ekmek
+item.wheat Buğday
+item.bomb_berry Bomba Yemişi
+item.bomb_berry.desc Uyarı: Evde yeme.
+item.ominous_deer_skull Tehditkâr Geyik Kafatası
+item.oak_leaves Meşe Yaprağı
+item.placed_glow_bean Parlayan Fasulye (Blok)
+item.weapon_crate Silah Sandığı
+item.forest_chest Orman Sandığı
+item.tomato_seed Domates Tohumu
+item.wheat_seed Buğday Tohumu
+item.glow_bean_seed Parlayan Fasulye Tohumu
+item.weeds Otlar
+item.spider_web Örümcek Ağı
+item.pizza_cutter Pizza Kesici
+item.crowbar Levye
+item.melon_slicer Karpuz Dilimleyici
+item.forest_axe Orman Baltası
+item.snowball_cannon Kar Topu Tabancası
+item.snowball Kar Topu
+item.forest_ingot Orman Külçesi
+item.eightball Sekiz Top
+item.dice Zar
+item.basketball Basketbol
+item.bucket Kova
+item.water_bucket Su Kovası
+item.lava_bucket Lav Kovası
+item.sponge Sünger
+item.lava_sponge Lav Süngeri
+item.forest_blessing Orman Bereketi
+item.forest_blessing.desc Ekstra 2 saniye dayanıklılık verir.
+item.minecart Maden Arabası
+item.minecart.desc Ray üzerine koy ve bin.
+item.underground_bush Yeraltı Çalısı
+item.undergrowth_rock Yeraltı Kayası
+item.forest_flower Orman Çiçeği
+item.lava_lily Lav Zambağı
+item.bubble_glass Baloncuk Cam
+item.undergrowth_crate Yeraltı Sandığı
+item.spike_trap Diken Tuzağı
+item.dynamite_trap Dinamit Tuzağı
+item.basket_hoop Basketbol Potası
+item.rail Ray
+item.painting_child Resim Meta Veri Eşyası
+item.painting_melon Resim (Karpuz)
+item.painting_melon.desc Natürmort ..veya oto-portre.
+item.painting_triangle Resim (Üçgen)
+item.painting_triangle.desc Yaşamın temel yapı taşı.
+item.painting_stars Resim (Yıldızlar)
+item.painting_pipes Resim (Boru)
+item.painting_cloud Resim (Pembe Bulut)
+item.painting_waves Resim (Dalga)
+item.painting_biome Resim (Biyom)
+item.painting_deer Resim (Geyik)
+item.spawn_pointer Yeniden Doğuş İşaretçisi
+item.spawn_pointer.desc Sağ tıkla yeniden doğuş noktasını ayarla.
+item.forest_helmet Orman Kaskı
+item.forest_chestplate Orman Göğüslük
+item.forest_greaves Orman Paça
+item.skull_fragment Kafatası Parçası
+item.cobalt_pickaxe Kobalt Kazma
+item.cobalt_sword Kobalt Kılıç
+item.arctic_blade Arktik Kılıç
+item.big_sword Büyük Kılıç
+item.baguette Baguette
+item.frosted_boomerang Donmuş Bumerang
+item.cobalt_spear Kobalt Mızrak
+item.cobalt_axe Kobalt Balta
+item.cobalt_helmet Kobalt Kask
+item.cobalt_chestplate Kobalt Göğüslük
+item.cobalt_greaves Kobalt Paça
+item.cobalt_bow Kobalt Yay
+item.cobalt_crossbow Kobalt Arbalet
+item.snowball_splitter Kar Topu Ayırıcı
+item.flamethrower Alev Püskürtücü
+item.fart_gun Osuruk Tabancası
+item.cobalt_ingot Kobalt Külçe
+item.copper_coin Bakır Jeton
+item.silver_coin Gümüş Jeton
+item.gold_coin Altın Jeton
+item.allumerium_coin Allumerium Jeton
+item.mining_potion Madencilik İksiri
+item.mint Nane
+item.red_meat Kırmızı Et
+item.steak Biftek
+item.red_mushroom_item Kırmızı Mantar
+item.glowing_mushroom_item Parlayan Mantar
+item.magnet Mıknatıs
+item.magnet.desc 4 metre uzaktaki eşyaları çeker.
+item.scuba_helmet Dalış Kaskı
+item.scuba_helmet.desc Sualtında nefes almana izin verir.
+item.curse_of_core Çekirdek Laneti
+item.curse_of_core.desc Acı ve ıstırap yaratabilir.
+item.cosmic_radiation Kozmik Işınım
+item.cosmic_radiation.desc Bit hatalarına neden olabilir.
+item.paint_roller Boya Rulosu
+item.paint_roller_earthy Boya Rulosu (Toprak Paleti)
+item.paint_roller_pastel Boya Rulosu (Pastel Palet)
+item.wallpaper Duvar Kağıdı
+item.wallpaper.desc Sadece Alçıpan'a uygulanabilir.
+item.permafrost Donmuş Toprak
+item.cobalt_ore Kobalt Cevheri
+item.amethyst_ore Ametist
+item.sapphire_ore Safir
+item.diamond_ore Elmas
+item.cobalt_plated_stone Kobalt Kaplama Taş
+item.alpha_shop Alpha Dükkan
+item.alpha_shop.desc (NPC'ler eklendiğinde kaldırılacak)
+item.white_torch Beyaz Meşale
+item.ice_crate Buz Sandığı
+item.ice_chest Buz Sandığı
+item.table Masa
+item.chair Sandalye
+item.basic_lamp Lamba
+item.snow_dungeon_bricks Kar Zindan Tuğlası
+item.snow_dungeon_lamp Kar Zindan Lambası
+item.pressure_plate_small Küçük Basınç Plakası
+item.icycle Buz Siki
+item.switch Anahtar
+item.cobalt_bars Kobalt Çubuk
+item.drywall Alçıpan
+item.cotton_candy Pamuk Şeker
+item.amethyst_block Ametist Blok
+item.sapphire_block Safir Blok
+item.diamond_block Elmas Blok
+item.mint_seed Nane Tohumu
+item.painting_blue Resim (Mavi)
+item.painting_city Resim (Şehir)
+item.painting_desolate Resim (Issız)
+item.painting_figure Resim (Figür)
+item.painting_bird Resim (Kuş)
+item.painting_undergrowth Resim (Yeraltı)
+item.structure_save Yapı Kaydet
+item.structure_load Yapı Yükle
+item.structure_latch Yapı Manda
+item.structure_marker Yapı İşaretçisi
+item.structure_noreplace Yapı Üstüne Yazma
+item.fluid.empty Boş Sıvı
+item.fluid.water Su
+item.fluid.lava Lav
+item.raygun_death Anında Ölüm Işın Tabancası
+item.ice_torch Buz Meşalesi
+item.arcade_carpet Atari Halısı
+item.painting_snowman Resim (Kardan Adam)
+item.big_snowball Büyük Kar Topu
+item.big_snowball.desc Kardan adam yapmak ister misin?
+item.snow_boss_base Kar Boss Tabanı
+item.evil_tophat Kötü Şapka
+item.evil_tophat.desc Yaşam yaratabilir.
+item.blank_block Boş Blok
+item.grid_block Izgara Blok
+item.carving_knife Oyma Bıçağı
+item.carving_knife.desc Balkabağını oymak için kullanılır.
+item.spawn_fuzzy Canavar Tüylü
+item.spawn_fuzzy_green Orman Tüylü
+item.spawn_fuzzy_ice Buz Tüylü
+item.spawn_hog Domuz
+item.spawn_skeleton İskelet
+item.spawn_wizard Büyücü
+item.spawn_wizard_ice Buz Büyücü
+item.spawn_mushroomer Mantar Adam
+item.spawn_nightflyer Gece Uçarı
+item.spawn_snowman Kardan Adam
+item.spawn_stone_golem Taş Golem
+item.spawn_yeti Yeti
+item.spawn_zombie Zombi
+item.spawn_pukeko Pukeko
+item.poo_gem Kaka Mücevher
+item.lush_grass Bolluk Çimi
+item.dry_grass Sonbahar Çimi
+item.grass_tall_autumn Uzun Sonbahar Çimi
+item.grass_tall_lush Uzun Bolluk Çimi
+item.terracotta_tiles Terracotta Karo
+item.ritual_torch Ritüel Meşalesi
+item.spawner_block Canavar Üretici
+item.sign Tabela
+item.glass_sign Cam Tabela
+item.screen_sign Ekran Tabela
+item.invisible_sign Görünmez Tabela
+item.carved_pumpkin Oymalı Balkabağı
+item.pumpkin_seed Balkabağı Tohumu
+item.basic_rod Temel Olta
+item.basic_rod.desc Balık tutmak için!
+item.sturdy_rod Sağlam Olta
+item.sturdy_rod.desc Daha zor balıkları çekebilir.
+item.obsidian_rod Obsidyen Olta
+item.obsidian_rod.desc Balıklar benden korkar.
+item.water_walking_potion Su Üstünde Yürüme İksiri
+item.water_walking_potion.desc Suda yürümeni sağlar.
+item.crate_potion Sandık İksiri
+item.crate_potion.desc Sandık çıkma şansını artırır.
+item.fish_fillet Balık Fileto
+item.gormet_fish_fillet Gurme Balık Fileto
+item.gormet_fish_fillet.desc Lezzetli!
+item.worm Solucan
+item.worm.desc Nadir balıkları çekmek için yem olarak kullanılır.
+item.bug_bait Böcek Yemi
+item.bug_bait.desc Nadir balıkları çekmek için yem olarak kullanılır.
+item.rage_bait Öfke Yemi
+item.rage_bait.desc Nadir balıkları çeker ama onları sinirlendirir.
+item.magnetic_bait Manyetik Yem
+item.magnetic_bait.desc Sandık çıkma şansını artırır.
+item.fish_catfish Sazan Balığı
+item.fish_walleye Walleye
+item.fish_carp Sazan
+item.fish_tuna Orkinos
+item.fish_salmon Somon
+item.fish_murray_cod Murray Cod
+item.fish_herring Hamsi
+item.fish_minnow Minnow
+item.fish_lanternfish Fener Balığı
+item.fish_crystalfin Kristal Yüzgeç
+item.fish_fangtooth Diş Balığı
+item.fish_blobfish Balon Balığı
+item.fish_nautilus Nautilus
+item.fish_smoulderfish Kızgın Balık
+item.fish_obsidieel Obsidyen Balığı
+item.fish_stonefish Taş Balığı
+item.fish_rainbow_trout Gökkuşağı Alabalığı
+item.packed_dirt Sıkıştırılmış Toprak
+item.seaweed Deniz Yosunu
+item.lilypad Nilüfer
+item.elevator Asansör
+item.elevator.desc Zıpla veya gizlenerek yukarı/aşağı git.
+item_tag.can_place Yerleştirilebilir
+item_tag.can_consume Tüketilebilir
+item_tag.axe_power Balta Gücü
+item_tag.pickaxe_power Kazma Gücü
+item_tag.swing_speed Bekleme Süresi
+item_tag.hammer Çekiç
+item_tag.cant_mine Kazılamaz
+item_tag.restores_health Geri Yükler
+item_tag.melee_damage Yakın Dövüş
+item_tag.defence Savunma
+item_tag.required_ammo Gerekli Cephane
+item_tag.ammo Cephane
+item_tag.ranged_damage Uzak Mesafe
+item_tag.trinket Takı
+item_tag.can_block Bloklanabilir
+item_tag.knockback İtme
+settings.field_of_view Görüş Alanı
+settings.max_fps Maksimum FPS
+settings.render_distance Render Mesafesi
+settings.mouse_sensitivity Fare Hassasiyeti
+settings.master_volume Ana Ses
+settings.max_mesh_threads Maksimum Mesh İş Parçacığı
+settings.max_mesh_uploads Kare Başına Maksimum Mesh Yükleme
+settings.show_control_hints Kontrol İpuçlarını Göster
+settings.auto_scale_ui UI Otomatik Ölçekle
+settings.manual_ui_scale Manuel UI Ölçeği
+settings.world_volume Dünya Sesi
+settings.music_volume Müzik Sesi
+settings.ui_volume UI/Oyuncu Sesi
+settings.ambient_volume Ortam Sesi
+settings.autosave_interval Otomatik Kaydetme Aralığı (Dakika)
+settings.autosave_enabled Otomatik Kaydetme
+settings.autosave_indicator Otomatik Kaydetme Göstergesi
+settings.panicsave_enabled Çökmede Kurtarma Kaydet
+settings.view_bobbing Görüş Sallanması
+settings.screen_shake Ekran Titreşimi
+settings.allow_noclip Noclip İzin Ver
+settings.allow_infinite_item Sınırsız Eşya İzin Ver
+settings.allow_creative_menu Yaratıcı Menü İzin Ver
+settings.allow_godmode Tanrı Modu
+settings.mob_canavar_üretimi Canavar Üretimi
+settings.current_language Mevcut Dil
+settings.language_info Dil değişikliği için oyunu yeniden başlatın.
+settings.cave_culling Mağara Temizleme
+settings.header_basic Temel
+settings.vsync Dikey Senkronizasyon
+settings.view_bobbing_intensity Sallanma Yoğunluğu
+settings.header_user_interface Kullanıcı Arayüzü
+settings.header_advanced Gelişmiş
+settings.pixel_scale Piksel Ölçeği
+settings.dither_shader Dither Shader
+settings.invert_mouse Fare Ters çevir
+settings.leaf_sway Yaprak Sallanması
+settings.dynamic_light Dinamik Işık
+settings.disable_launch_message Başlatma Mesajını Kapat
+settings.show_day_count Gün Sayısını Göster
+settings.infinite_stamina Sınırsız Dayanıklılık
+settings.edit_adventure_blocks Macera Bloklarını Düzenle
+settings.disable_mobs Canavarları Kapat
+settings.header_controls Kontroller
+settings.header_keybinds Tuş Atamaları
+settings.slab_placement_mode Dikey Yerleştirme Modu
+settings.reset_shape_on_swap Şekil Değişiminde Sıfırla
+settings_category.camera Kamera
+settings_category.video Video
+settings_category.audio Ses
+settings_category.controls Kontroller
+settings_category.misc Çeşitli
+settings_category.keybinds Tuş Atamaları
+settings_category.cheats Hileler
+settings_category.language Dil
+control_hint.open_inventory Envanteri Aç
+control_hint.close_inventory Envanteri Kapat
+control_hint.close_menu Menüyü Kapat
+control_hint.split_stack Yığını Böl
+control_hint.take_stack Yığını Al
+control_hint.drop_one Birini At
+control_hint.drop_stack Yığını At
+control_hint.craft_one Bir Yap
+control_hint.toggle_creative Yaratıcı Modu Aç/Kapat
+control_hint.use Kullan
+control_hint.use_item Eşya Kullan
+control_hint.place_item Eşya Yerleştir
+control_hint.punch Yumruk
+control_hint.unequip Kuşan
+control_hint.equip Çıkar
+control_hint.change_shape Şekil Değiştir
+control_hint.show_recipes Tarifleri Göster
+keybind.move_forward İleri Git
+keybind.move_backward Geri Git
+keybind.move_left Sola Git
+keybind.move_right Sağa Git
+keybind.fly_down Aşağı Uç
+keybind.fly_up Yukarı Uç
+keybind.jump Zıpla
+keybind.noclip Noclip
+keybind.place Yerleştir / Kullan
+keybind.punch Yumruk
+keybind.place_modifier Yerleştirme Düzenleyici
+keybind.open_inventory Envanteri Aç
+keybind.toggle_creative_menu Yaratıcı Menüyü Aç/Kapat
+keybind.drop_item Eşya At
+keybind.drop_modifier Eşya Atma Düzenleyici
+keybind.pause Duraklat
+keybind.ui_confirm UI Onayla
+keybind.ui_secondary UI İkincil
+keybind.toggle_debug Hata Ayıklama Katmanını Aç/Kapat
+keybind.toggle_profiler Performans Katmanını Aç/Kapat
+keybind.toggle_fullscreen Tam Ekranı Aç/Kapat
+keybind.ui_up UI Yukarı
+keybind.ui_down UI Aşağı
+keybind.ui_left UI Sol
+keybind.ui_right UI Sağ
+keybind.hotbar1 Sıcak Çubuk 1
+keybind.hotbar2 Sıcak Çubuk 2
+keybind.hotbar3 Sıcak Çubuk 3
+keybind.hotbar4 Sıcak Çubuk 4
+keybind.hotbar5 Sıcak Çubuk 5
+keybind.hotbar6 Sıcak Çubuk 6
+keybind.hotbar7 Sıcak Çubuk 7
+keybind.hotbar8 Sıcak Çubuk 8
+keybind.hotbar9 Sıcak Çubuk 9
+keybind.hotbar10 Sıcak Çubuk 10
+keybind.hotbar11 Sıcak Çubuk 11
+keybind.hotbar12 Sıcak Çubuk 12
+keybind.open_chat Sohbeti Aç
+keybind.send_chat Mesaj Gönder
+keybind.toggle_hud HUD'u Aç/Kapat
+keybind.take_screenshot Ekran Görüntüsü Al
+keybind.open_radial Dairesel Menüyü Aç
+keybind.sneak Gizlen (takı ile)
+keybind.sprint Koş (takı ile)
+keybind.show_use Eşya Kullanımlarını Göster
+keybind.show_recipe Eşya Tariflerini Göster
+keybind.pick_block Blok Seç
+keybind.scroll_up Yukarı Kaydır
+keybind.scroll_down Aşağı Kaydır
+keybind.favourite_item Favori Eşya
+keybind.fish_left Balığı Sola Çek
+keybind.fish_right Balığı Sağa Çek
+ammo.arrow Ok
+ammo.rock Kaya
+ammo.bullet Mermi
+ammo.snowball Kar Topu
+effect.poison Zehirli
+effect.desc.poison Zamanla hasar verir.
+effect.regen Yenilenme
+effect.desc.regen Zamanla yavaşça iyileşirsin.
+effect.wet Islak
+effect.desc.wet Suya batmışsın.
+effect.slowfall Yavaş Düşüş
+effect.desc.slowfall Daha yavaş düşer ve düşme hasarı almazsın.
+effect.fire Alev Almış
+effect.desc.fire Yanmışsın!!!
+effect.healcooldown Son İyileşme
+effect.desc.healcooldown Tekrar iyileşmek için biraz beklemelisin.
+effect.freezing Donma
+effect.desc.freezing Soğuktan hasar alıyorsun.
+effect.fast Hızlı
+effect.desc.fast Daha hızlı hareket edebilirsin.
+effect.slow Yavaş
+effect.desc.slow Daha yavaş hareket edersin.
+effect.anchored Sabitlenmiş
+effect.desc.anchored Yerinde sabitlenmişsin.
+effect.frozen Donmuş
+effect.desc.frozen Donmuşsun, hiçbir şey yapamazsın!
+effect.watched İzleniyor
+effect.desc.watched ...
+effect.flight Uçuş
+effect.desc.flight Kısa uçuş patlamalarına izin verir
+effect.regen_potion Yenilenme (İksir)
+effect.desc.regen_potion Yavaşça canın yenileniyor.
+effect.armoured Zırhlı
+effect.desc.armoured Savunman 4 puan artırıldı.
+effect.concussion Sarsıntı
+effect.desc.concussion Ah! Hareket hızın azaldı.
+effect.snack Hafif Atıştırma
+effect.desc.snack Hafif atıştırma yaptın, ufak istatistik artışı.
+effect.small_meal Küçük Yemek
+effect.desc.small_meal Küçük yemek yedin, küçük istatistik artışı.
+effect.webbed Ağına Yakalanmış
+effect.desc.webbed Örümcek ağına dolanmışsın.
+effect.water_walking Su Üstünde Yürüme
+effect.desc.water_walking Suda yürüyebilirsin.
+effect.crate_potion Sandık İksiri
+effect.desc.crate_potion Sandık çıkma şansı arttı.
+effect.fast_mining Hızlı Madencilik
+effect.desc.fast_mining Madencilik hızını artırır.
+crafting_station.inventory Elden
+crafting_station.work_bench Çalışma Tezgahı
+crafting_station.furnace Ocak
+crafting_station.anvil Örs
+crafting_station.decorations Dekorasyon İstasyonu
+crafting_station.potions İksir İstasyonu
+loading.tip0 Düşmanlar sadece doğal bloklarda ürer.
+loading.tip1 'R' tuşuna basarak eşyanın tariflerini görebilirsin.
+loading.tip2 Bir bloğu tutarken 'R'ye basılı tutarak şeklini değiştirebilirsin.
+loading.tip3 Boş tarlada bırakırsan bitkiler mutasyona uğrayabilir.
+loading.tip4 Yeraltı ve zindanlarda tuzaklara dikkat et.
+loading.tip5 Rayları ters veya duvara yerleştirebilirsin.
+loading.tip6 Meşaleler yeraltında canavar üretimini engellemez.
+loading.tip7 Yeniden doğuş noktanı ayarlamak için Yeniden Doğuş İşaretçisi kullan.
+loading.tip8 Kaybolursan eve dönmek için Dönüş İksiri kullan.
+loading.tip9 Eşyaları çöpe göndermek için CTRL tıkla.
+loading.tip10 Yakındaki sandıklara eşyaları otomatik yığabilirsin.
+loading.tip11 Envanterini sıralayabilirsin.
+loading.tip12 Bazı silahlar düşman saldırılarını engelleyebilir.
+loading.tip13 Çok havalı eşyalar yapmak için Dekorasyon İstasyonu kullan.
+loading.tip14 Çakmaktaşları ve Çalışma Tezgahı ile alet yap.
+loading.tip15 Güçlü kazma ile diğer tarafa geçebilirsin.
+loading.tip16 Bazen düz aşağı kazmak iyi fikir.
+loading.tip17 Hata bulursan Discord'da bildir.
+loading.tip18 Geri bildirim? Discord'a katıl veya formu doldur.
+loading.tip19 Alet dayanıklılığı gerçek değil, sana zarar veremez.
+loading.tip20 Bahçende otları büyütürsen mutasyona uğrayabilir.
+loading.tip21 Tam ekran için F11'e bas.
+loading.tip22 Boss savaşında basketbol oynamak faydalı olabilir.
+loading.tip23 Kalp pancarları maksimum canını artırır.
+loading.tip24 Patlayıcı oklar yakın dövüşte tehlikelidir.
+loading.tip25 Bitkiler sulanmazsa büyümez.
+colour.clear Temizle
+colour.white Beyaz
+colour.grey Soluk Gri
+colour.dark_grey Koyu Gri
+colour.black Siyah
+colour.red Kırmızı
+colour.orange Turuncu
+colour.yellow Sarı
+colour.lime Limon Yeşili
+colour.green Yeşil
+colour.turqoise Turkuaz
+colour.blue Mavi
+colour.dark_blue Koyu Mavi
+colour.purple Mor
+colour.pink Pembe
+colour.light_pink Açık Pembe
+colour.brown Kahverengi
+colour.algae Yosun
+colour.moss Yosun
+colour.forest Orman
+colour.ocean Okyanus
+colour.mud Çamur
+colour.clay Kil
+colour.sand Kum
+colour.powder Toz
+colour.none Yok
+colour.orange_sherbet Portakal Sherbet
+colour.lemon_yellow Limon Sarısı
+colour.pale_yellow Soluk Sarı
+colour.mint Nane Yeşili
+colour.baby_blue Bebek Mavisi
+colour.lavender Lavanta
+colour.pastel_pink Pastel Pembe
