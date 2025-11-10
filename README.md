@@ -1,4 +1,4 @@
-# Allumeria-i-in-tr-TR-Cevirisi
+# Allumeria-icin-tr-TR-Cevirisi
 Allumeria oyunu için yapılmış fan yapımı Türkçe çeviridir.
 Her hafta güncelleme yapılmaya çalısacağım.
 
